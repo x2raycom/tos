@@ -62,7 +62,7 @@ At x2ray.com, we prioritize the privacy and security of our users. This Privacy 
 
 **Children's Privacy:**
 
-1. x2ray.com is not intended for use by individuals under the age of 13. We do not knowingly collect or solicit personal information from children. If you believe that we have collected personal information from a child, please contact us to have the information removed.
+1. x2ray.com is not intended for use by individuals under the age of 22. We do not knowingly collect or solicit personal information from children. If you believe that we have collected personal information from a child, please contact us to have the information removed.
 
 **Updates to Privacy Policy:**
 
